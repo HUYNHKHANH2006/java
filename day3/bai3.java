@@ -1,10 +1,10 @@
 package day3;
 
 import java.util.*;
-
+//Mảng Ngẫu Nhiên
 public class bai3 {
     public static void main(String[] args) {
-        // Tạo mảng ngẫu nhiên 10 phần tử (từ 0-99)
+        //  0-99
         int[] a = new Random().ints(10, 0, 100).toArray(); 
         
         System.out.println("Mảng: " + Arrays.toString(a));
