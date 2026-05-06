@@ -10,15 +10,6 @@ Số sản phẩm                Đơn giá
 
 600 trở lên                0.65 
 
-
-
-
-
-
-
-
-
-
 Viết hàm LonHon(Nhan Vien nv2): hàm này trả về giá trị true khi số sản phẩm
 (SoSP) lớn hơn số sản phẩm của nv2, ngược lại trả về false
 >Viết hàm main sử dụng lớp Nhan Vien theo yêu cầu sau:
