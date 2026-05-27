@@ -1,11 +1,6 @@
-# Java JDBC – Day 9: Bài Thực Hành 1–4
-
-## Cấu trúc thư mục
-
-```
 day9/
 ├── sql/
-│   └── all_schemas.sql          ← Chạy file này trong MySQL trước
+│   └── all_schemas.sql          
 └── src/
     ├── data/
     │   ├── JavaConnection.java   ← Kết nối DB Bài 1 (qlgiaovien)
