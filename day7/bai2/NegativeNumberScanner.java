@@ -1,3 +1,4 @@
+// code này để tìm các số nguyên âm trong một chuỗi nhập từ bàn phím 
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

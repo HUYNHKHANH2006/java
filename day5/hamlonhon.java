@@ -1,3 +1,4 @@
+// code này để tìm ra nhân viên nào có số sản phẩm nhiều hơn và tính lương của từng nhân viên
 import java.util.Scanner;
 
 class NhanVien {
